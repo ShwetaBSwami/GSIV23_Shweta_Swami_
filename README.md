@@ -44,3 +44,20 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+<!-- I used axios because axios give automatic JSON parsing and better browser compatibility -->
+
+
+<!-- If i will get more 4 hours, 
+I will write eslint, it's setup and pre commit hooks.
+will write proper css for mweb, tab and dweb.
+Will write code considering performance as compared to this code. -->
+
+<!-- In this project I don't think redux is necessary but still I used it considering instruction. And as per my point of view here we can use context instead of redux. -->
+
+<!-- I can achieve infinite scroll using react-query. But considering PWA, pagination works more because infinite scroll will work in mobile as user friendly as it is. -->
+
+<!-- images which are coming from api are not working may be I am not aware about baseUrl of image. Hence I added bydefault image in webp and if voting for movie is zero then I am not showing that on FE considering user perspective. -->
+
+<!-- I used rem instead of px considering performance. -->
